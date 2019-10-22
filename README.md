@@ -26,11 +26,11 @@ Vous utiliserez UML pour réaliser cette conception.
 
 **Livrables attendus**
 
-    Un document (format PDF) de spécifications techniques comprenant :
-        une description du domaine fonctionnel
-        les différents composants du système et les composants externes utilisés par celui-ci et leur interaction
-        la description de l’organisation physique de ces composants (déploiement)
-    Le modèle physique de données (MPD) ou modèle relationnel de la base de données au format PDF ou image (PNG)
-    Base de données MySQL ou PostgreSQL avec un jeu de données de démo :
-        un fichier ZIP contenant un dump de votre base de données
-        un fichier ZIP contenant l’ensemble des scripts SQL de création de la base de données et du jeu de données de démo
+* Un document (format PDF) de spécifications techniques comprenant :
+* Une description du domaine fonctionnel
+* Les différents composants du système et les composants externes utilisés par celui-ci et leur interaction
+* La description de l’organisation physique de ces composants (déploiement)
+* Le modèle physique de données (MPD) ou modèle relationnel de la base de données au format PDF ou image (PNG)
+* Base de données MySQL ou PostgreSQL avec un jeu de données de démo :
+* Un fichier ZIP contenant un dump de votre base de données
+* Un fichier ZIP contenant l’ensemble des scripts SQL de création de la base de données et du jeu de données de démo
